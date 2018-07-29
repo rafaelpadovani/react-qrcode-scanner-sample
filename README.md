@@ -33,7 +33,7 @@ Inside dependencies{} replace `compileOnly` and `implementation` to `compile` an
 compile 'com.android.support:multidex:1.0.0'
 ```
 
-- To run on Android simulator:
+To run on Android simulator:
 - Open the project /android folder in Android Studio.
 - Select the app project and click 'Run'
 - Choose a valid simulator.
