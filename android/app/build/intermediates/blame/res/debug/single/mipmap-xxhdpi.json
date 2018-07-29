@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rafaelpadovani/Desktop/ReactBarcodeScannerProject/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/rafaelpadovani/Desktop/ReactBarcodeScannerProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rafaelpadovani/Desktop/ReactBarcodeScannerProject/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/rafaelpadovani/Desktop/ReactBarcodeScannerProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

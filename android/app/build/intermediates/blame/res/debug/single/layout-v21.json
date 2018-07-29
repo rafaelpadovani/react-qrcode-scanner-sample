@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rafaelpadovani/Desktop/ReactBarcodeScannerProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/rafaelpadovani/.android/build-cache/1b930f8284af983a0c7f4670053e25cad45fce26/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/rafaelpadovani/Desktop/ReactBarcodeScannerProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/rafaelpadovani/.android/build-cache/1b930f8284af983a0c7f4670053e25cad45fce26/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/rafaelpadovani/Desktop/ReactBarcodeScannerProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/rafaelpadovani/.android/build-cache/1b930f8284af983a0c7f4670053e25cad45fce26/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/rafaelpadovani/Desktop/ReactBarcodeScannerProject/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/rafaelpadovani/.android/build-cache/1b930f8284af983a0c7f4670053e25cad45fce26/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
