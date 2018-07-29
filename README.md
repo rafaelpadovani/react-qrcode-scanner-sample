@@ -1,4 +1,4 @@
-# react-qrcode-scanner-sample
+# React Native QRCode Scanner Sample
 A sample project with QRCode scanner for React Native.
 
 This project was built using [react-native-camera](https://github.com/lwansbrough/react-native-camera). This is an improved version of [react-native-qrcode-scanner](https://github.com/moaazsidat/react-native-qrcode-scanner).
