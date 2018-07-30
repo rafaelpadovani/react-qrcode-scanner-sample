@@ -37,3 +37,21 @@ To run on Android simulator:
 - Open the project /android folder in Android Studio.
 - Select the app project and click 'Run'
 - Choose a valid simulator.
+
+If you're getting problems to run on Android device follow this:
+
+1 - Go to your project directory and check if this folder exists `android/app/src/main/assets`
+i) If it exists then delete two files `index.android.bundle` and `index.android.bundle.meta`
+ii) If the folder assets doesn't exist then create the assets directory there.
+
+2 - From your root project directory do
+`cd android && ./gradlew clean`
+
+3 - Finally, navigate back to the root directory and check if there is one single entry file called `index.js`
+i) If there is only one file i.e. `index.js` then run following command:
+`react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res`
+
+ii) If there are two files i.e `index.android.js` and `index.ios.js` then run this:
+`react-native bundle --platform android --dev false --entry-file index.android.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res`
+
+4 - Now run the application in Android Studio and choose your device.
