@@ -55,3 +55,6 @@ If you're getting problems to run on Android device follow this:
 `react-native bundle --platform android --dev false --entry-file index.android.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res`
 
 4 - Now run the application in Android Studio and choose your device.
+
+Swiper:
+in `renderScrollView` function comment the if statement: `if (Platform.OS === 'ios')`
